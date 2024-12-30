@@ -1,0 +1,28 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:  sans-serif;
+    outline: none;
+}
+body{
+background-image: url("https://th.bing.com/th/id/R.e660b0384b383c1a66a78c0d66343dca?rik=HuXjlOPini1Hhg&riu=http%3a%2f%2fwallsdesk.com%2fwp-content%2fuploads%2f2016%2f11%2fTeddy-Bear-HD-Wallpaper.jpg&ehk=7x8lscr8g%2f8NBi1hmk51hOLkQEZYI6iGhrSUGESkuhg%3d&risl=&pid=ImgRaw&r=0" );
+background-repeat: no-repeat;
+
+}
+.clock-container {
+width: 300px;
+margin: 50px auto;
+margin-top: 250px;
+padding: 20px;
+background-color: transparent;
+border: 1px solid #ddd;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(219, 191, 191, 0.041);
+text-align: center;
+}
+#current-time {
+font-size: 48px;
+font-weight: bold;
+}
